@@ -9,9 +9,14 @@ end
 
 
 
-def second(name,language)
+def introduction_with_language(name,language)
   language = ruby
   puts "hello #{name} + #{language}"
+end
+
+def introduction_with_language_optional(name,language)
+  language = Ruby
+  
 end
 
 
