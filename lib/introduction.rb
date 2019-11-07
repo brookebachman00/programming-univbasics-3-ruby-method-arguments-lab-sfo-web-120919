@@ -10,7 +10,7 @@ end
 
 
 def method(name,language)
-  language = ruby
+
   puts "hello #{name} + #{language}"
 end
 
