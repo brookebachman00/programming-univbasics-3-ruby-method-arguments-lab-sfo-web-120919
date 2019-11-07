@@ -3,7 +3,7 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-def one(name)
+def introduction(name)
   puts "#{name}"
 end
 
@@ -13,6 +13,7 @@ def second(name,language)
   language = ruby
   puts "hello #{name} + #{language}"
 end
+
 
 
 
