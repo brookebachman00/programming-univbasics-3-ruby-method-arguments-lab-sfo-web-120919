@@ -9,10 +9,9 @@ end
 
 def introduction_with_language(name,language)
   language = ruby
-  puts "hello #{name} + #{language}"
+  puts "#{name} + #{language}"
 end
 
-def introduction_with_language_optional(name,language)
   language = Ruby
   puts "hello #{name} + #{language}"
 end
