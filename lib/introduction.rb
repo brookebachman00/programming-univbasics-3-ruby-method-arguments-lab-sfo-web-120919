@@ -12,7 +12,7 @@ def introduction_with_language(name,language)
   puts "#{name} + #{language}"
 end
 
-def introduction_with_language_optional(name,language)
+def introduction_with_language_optional(name,language= "ruby")
   language = Ruby
   puts "#{name} + #{language}"
 end
