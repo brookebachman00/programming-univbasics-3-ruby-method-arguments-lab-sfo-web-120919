@@ -13,7 +13,7 @@ def introduction_with_language(name,language)
 end
 
   language = Ruby
-  puts "hello #{name} + #{language}"
+  puts "#{name} + #{language}"
 end
 
 
