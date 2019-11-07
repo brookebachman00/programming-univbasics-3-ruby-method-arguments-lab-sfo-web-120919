@@ -7,10 +7,12 @@ def one(name)
   puts "#{name}"
 end
 
-language = ruby
+
 
 def method(name,language )
+  language = ruby
   puts "hello #{name} + #{language}"
+
 end
 
 
